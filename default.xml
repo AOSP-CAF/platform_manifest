@@ -10,7 +10,7 @@
            revision="refs/heads/n-mr1" />
 
   <remote  name="caf"
-           fetch="git://codeaurora.org/quic/la"
+           fetch="http://source.codeaurora.org/quic/la"
            review="codeaurora.org"/>
 
   <remote  name="github"
