@@ -549,4 +549,7 @@
   <!-- AOSP-CAF additions -->
   <include name="manifests/caf.xml"/>
 
+  <!-- LAOS additions -->
+  <include name="manifests/laos.xml"/>
+
 </manifest>
