@@ -54,6 +54,7 @@
   <remove-project name="platform/packages/apps/Bluetooth" />
   <remove-project name="platform/packages/apps/Dialer" />
   <remove-project name="platform/packages/apps/FMRadio" />
+  <remove-project name="platform/packages/apps/Nfc" />
   <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/providers/MediaProvider" />
