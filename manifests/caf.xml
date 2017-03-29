@@ -29,6 +29,7 @@
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/f2fs-tools" />
   <remove-project name="platform/external/fsck_msdos" />
+  <remove-project name="platform/external/jemalloc" />
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/okhttp" />
   <remove-project name="platform/external/skia" />
@@ -56,6 +57,7 @@
   <remove-project name="platform/packages/apps/FMRadio" />
   <remove-project name="platform/packages/apps/Nfc" />
   <remove-project name="platform/packages/apps/Settings" />
+  <remove-project name="platform/packages/apps/SnapdragonCamera" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/providers/MediaProvider" />
   <remove-project name="platform/packages/services/Telephony" />
@@ -106,6 +108,7 @@
   <project name="platform_external_f2fs-tools" path="external/f2fs-tools" remote="aosp-caf" />
   <project name="platform_external_fsck_msdos" path="external/fsck_msdos" remote="aosp-caf" />
   <project name="platform_external_fuse" path="external/fuse" remote="aosp-caf" />
+  <project name="platform_external_jemalloc" path="external/jemalloc" remote="aosp-caf" />
   <project name="platform_external_mksh" path="external/mksh" remote="aosp-caf" />
   <project name="platform_external_ntfs-3g" path="external/ntfs-3g" remote="aosp-caf" />
   <project name="platform_external_okhttp" path="external/okhttp" remote="aosp-caf" />
@@ -132,6 +135,7 @@
   <project name="platform_packages_apps_Dialer" path="packages/apps/Dialer" remote="aosp-caf" />
   <project name="platform_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="aosp-caf" />
   <project name="platform_packages_apps_Settings" path="packages/apps/Settings" remote="aosp-caf" />
+  <project name="platform_packages_apps_SnapdragonCamera" path="packages/apps/SnapdragonCamera" remote="aosp-caf" />
   <project name="platform_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="aosp-caf" />
   <project name="platform_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="aosp-caf" />
   <project name="platform_packages_services_Telephony" path="packages/services/Telephony" remote="aosp-caf" />
