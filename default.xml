@@ -9,6 +9,10 @@
            fetch="https://github.com/AOSP-CAF"
            revision="refs/heads/n-mr1" />
 
+  <remote  name="cancro-caf"
+           fetch="https://github.com/cancro-caf"
+           revision="refs/heads/n-mr1" />
+
   <remote  name="caf"
            fetch="http://source.codeaurora.org/quic/la"
            review="codeaurora.org"/>
@@ -19,7 +23,7 @@
   <remote  name="github-ssh"
            fetch="ssh://git@github.com"/>
 
-  <default revision="refs/tags/LA.UM.5.7.r1-08400-8x98.0"
+  <default revision="refs/tags/LA.UM.5.7.r2-00500-8x98.0"
            remote="caf"
            sync-j="4"
            sync-c="true"/>
