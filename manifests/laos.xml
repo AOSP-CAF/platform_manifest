@@ -33,7 +33,6 @@
   <project name="android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8994" groups="qcom" remote="laos" revision="cm-14.1-caf-8994" />
   <project name="android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8996" groups="qcom" remote="laos" revision="cm-14.1-caf-8996" />
   <project name="android_packages_apps_Browser" path="packages/apps/Browser" remote="laos" />
-  <project name="android_packages_apps_Nfc" path="packages/apps/Nfc" remote="laos" />
   <project name="android_vendor_qcom_opensource_cryptfs_hw" path="vendor/qcom/opensource/cryptfs_hw" remote="laos" />
   <!-- END LINEAGE-OS -->
   
