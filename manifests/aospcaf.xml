@@ -18,7 +18,6 @@
   <remove-project name="device/qcom/common" />
   <remove-project name="device/qcom/sepolicy" />
   <remove-project name="device/sample" />
-  <remove-project name="kernel/lk" />
   <remove-project name="kernel/msm-4.4" />
   <remove-project name="platform/abi/cpp" />
   <remove-project name="platform/art" />
@@ -80,13 +79,13 @@
   <remove-project name="platform/vendor/qcom-opensource/wlan/utils/sigma-dut" />
   <remove-project name="platform/vendor/qcom/cobalt" />
   <remove-project name="platform/vendor/qcom/cobalt_32" />
-  <remove-project name="platform/vendor/qcom/falcon_32"/>
-  <remove-project name="platform/vendor/qcom/falcon_64"/>
-  <remove-project name="platform/vendor/qcom/thorium_32"/>
-  <remove-project name="platform/vendor/qcom/thorium_64"/>
-  <remove-project name="platform/vendor/qcom/thulium"/>
-  <remove-project name="platform/vendor/qcom/titanium_32"/>
-  <remove-project name="platform/vendor/qcom/titanium_64"/>
+  <remove-project name="platform/vendor/qcom/falcon_32" />
+  <remove-project name="platform/vendor/qcom/falcon_64" />
+  <remove-project name="platform/vendor/qcom/thorium_32" />
+  <remove-project name="platform/vendor/qcom/thorium_64" />
+  <remove-project name="platform/vendor/qcom/thulium" />
+  <remove-project name="platform/vendor/qcom/titanium_32" />
+  <remove-project name="platform/vendor/qcom/titanium_64" />
   <!-- REMOVE PROJECTS -->
 
   <!-- BEGIN AOSP-CAF -->
@@ -125,12 +124,12 @@
   <project name="platform_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="aosp-caf" />
   <project name="platform_hardware_libhardware" path="hardware/libhardware" remote="aosp-caf" />
   <project name="platform_hardware_qcom_bt" path="hardware/qcom/bt" remote="aosp-caf" />
-  <project name="platform_hardware_qcom_bt" path="hardware/qcom/bt-caf" revision="n-mr1-caf" remote="aosp-caf" />
+  <project name="platform_hardware_qcom_bt" path="hardware/qcom/bt-caf" revision="n-mr2-caf" remote="aosp-caf" />
   <project name="platform_hardware_qcom_keymaster" path="hardware/qcom/keymaster" remote="aosp-caf" />
   <project name="platform_hardware_qcom_wlan" path="hardware/qcom/wlan" remote="aosp-caf" />
-  <project name="platform_hardware_qcom_wlan" path="hardware/qcom/wlan-caf" revision="n-mr1-caf" remote="aosp-caf" />
+  <project name="platform_hardware_qcom_wlan" path="hardware/qcom/wlan-caf" revision="n-mr2-caf" remote="aosp-caf" />
   <project name="platform_hardware_ril" path="hardware/ril" remote="aosp-caf" />
-  <project name="platform_hardware_ril" path="hardware/ril-caf" revision="n-mr1-caf" remote="aosp-caf" />
+  <project name="platform_hardware_ril" path="hardware/ril-caf" revision="n-mr2-caf" remote="aosp-caf" />
   <project name="platform_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="aosp-caf" />
   <project name="platform_packages_apps_Dialer" path="packages/apps/Dialer" remote="aosp-caf" />
   <project name="platform_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="aosp-caf" />
