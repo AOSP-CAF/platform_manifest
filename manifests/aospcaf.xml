@@ -154,7 +154,7 @@
   <!-- END AOSP-CAF -->
 
   <!-- BEGIN CAF -->
-  <project name="platform/packages/apps/WallpaperPicker" path="packages/apps/WallpaperPicker" revision="refs/tags/LA.UM.5.6.r1-03800-89xx.0" />
+  <project name="platform/packages/apps/WallpaperPicker" path="packages/apps/WallpaperPicker" revision="refs/tags/LA.UM.5.5.r1-04600-8x96.0" />
   <!-- END CAF -->
 
   <!-- BEGIN SUBSTRATUM -->
