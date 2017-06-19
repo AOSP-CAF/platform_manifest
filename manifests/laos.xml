@@ -2,7 +2,6 @@
 <manifest>
 
   <!-- BEGIN LINEAGE-OS -->
-  <project name="android_external_libncurses" path="external/libncurses" remote="laos" />
   <project name="android_hardware_qcom_audio" path="hardware/qcom/audio/default" remote="laos" />
   <project name="android_hardware_qcom_audio" path="hardware/qcom/audio-caf/apq8084" groups="qcom,qcom_audio" remote="laos" revision="cm-14.1-caf-8084" />
   <project name="android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8916" groups="qcom,qcom_audio" remote="laos" revision="cm-14.1-caf-8916" />

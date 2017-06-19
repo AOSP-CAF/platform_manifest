@@ -99,8 +99,6 @@
   <project name="platform_build_kati" path="build/kati" remote="aosp-caf" groups="pdk,tradefed" />
   <project name="platform_external_ant-wireless_ant_native" path="external/ant-wireless/ant_native" remote="aosp-caf" />
   <project name="platform_external_ant-wireless_antradio-library" path="external/ant-wireless/antradio-library" remote="aosp-caf" />
-  <project name="platform_external_bash" path="external/bash" remote="aosp-caf" />
-  <project name="platform_external_busybox" path="external/busybox" remote="aosp-caf" />
   <project name="platform_external_connectivity" path="external/connectivity" remote="aosp-caf" />
   <project name="platform_external_e2fsprogs" path="external/e2fsprogs" remote="aosp-caf" />
   <project name="platform_external_exfat" path="external/exfat" remote="aosp-caf" />
