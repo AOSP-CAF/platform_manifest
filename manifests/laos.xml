@@ -2,6 +2,7 @@
 <manifest>
 
   <!-- BEGIN LINEAGE-OS -->
+  <project name="android_external_chromium-webview" path="external/chromium-webview" remote="laos" clone-depth="1" />
   <project name="android_hardware_qcom_audio" path="hardware/qcom/audio/default" remote="laos" />
   <project name="android_hardware_qcom_audio" path="hardware/qcom/audio-caf/apq8084" groups="qcom,qcom_audio" remote="laos" revision="cm-14.1-caf-8084" />
   <project name="android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8916" groups="qcom,qcom_audio" remote="laos" revision="cm-14.1-caf-8916" />
@@ -31,7 +32,7 @@
   <project name="android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8974" groups="qcom" remote="laos" revision="cm-14.1-caf-8974" />
   <project name="android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8994" groups="qcom" remote="laos" revision="cm-14.1-caf-8994" />
   <project name="android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8996" groups="qcom" remote="laos" revision="cm-14.1-caf-8996" />
-  <project name="android_packages_apps_Browser" path="packages/apps/Browser" remote="laos" />
+  <project name="android_packages_apps_Jelly" path="packages/apps/Jelly" remote="laos" />
   <project name="android_vendor_qcom_opensource_cryptfs_hw" path="vendor/qcom/opensource/cryptfs_hw" remote="laos" />
   <!-- END LINEAGE-OS -->
   
