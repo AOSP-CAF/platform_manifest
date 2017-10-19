@@ -30,7 +30,6 @@
   <remove-project name="platform/external/f2fs-tools" />
   <remove-project name="platform/external/fsck_msdos" />
   <remove-project name="platform/external/jemalloc" />
-  <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/okhttp" />
   <remove-project name="platform/external/skia" />
   <remove-project name="platform/external/tinyalsa" />
@@ -107,7 +106,6 @@
   <project name="platform_external_fsck_msdos" path="external/fsck_msdos" remote="aosp-caf" />
   <project name="platform_external_fuse" path="external/fuse" remote="aosp-caf" />
   <project name="platform_external_jemalloc" path="external/jemalloc" remote="aosp-caf" />
-  <project name="platform_external_mksh" path="external/mksh" remote="aosp-caf" />
   <project name="platform_external_ntfs-3g" path="external/ntfs-3g" remote="aosp-caf" />
   <project name="platform_external_okhttp" path="external/okhttp" remote="aosp-caf" />
   <project name="platform_external_skia" path="external/skia" remote="aosp-caf" />
